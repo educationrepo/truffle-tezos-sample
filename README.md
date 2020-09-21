@@ -1,8 +1,9 @@
 # truffle-tezos-sample
 
 clone the repo
-cd truffle-tezos-sample-repo
-truffle compile
+
+*cd truffle-tezos-sample-repo
+*truffle compile
 
 take another terminal
  npm run start-sandbox
