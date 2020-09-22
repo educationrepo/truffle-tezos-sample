@@ -3,9 +3,11 @@
 ## clone the repo
 
 > cd truffle-tezos-sample-repo
+then run the command in terminal
 > truffle compile
 
-take another terminal
+take another terminal:
+
  > npm run start-sandbox
  > truffle migrate
 
